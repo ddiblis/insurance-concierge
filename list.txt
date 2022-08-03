@@ -1,0 +1,49 @@
+1	State Farm	statefarm.com	Bloomington, IL
+2	Progressive	progressive.com	Mayfield, OH
+3	Allstate Corp.	allstate.com	Northbrook, IL
+4	USAA	usaa.com	San Antonio, TX
+5	Liberty Mutual	libertymutual.com	Boston, MA
+6	Farmers Insurance Group	farmers.com	Woodland Hills, CA
+7	Nationwide	nationwide.com	Columbus, OH
+8	American Family Insurance Group	amfam.com	Madison, WI
+9	Travelers	travelers.com	Saint Paul, MN
+10	Auto Club Exchange (AAA Insurance)	aaa.com	Costa Mesa, CA
+11	Erie Insurance	www.erieinsurance.com	Erie, PA
+12	Kemper	kemper.com	Chicago, IL
+13	National General Holdings Corp	nationalgeneral.com	New York, NY
+14	CSAA Insurance Exchange	csaa-insurance.aaa.com	Walnut Creek, CA
+15	Auto-Owners Insurance	auto-owners.com	Lansing, MI
+16	Mercury Insurance	mercuryinsurance.com	Los Angeles, CA
+17	MetLife	metlife.com	New York, NY
+18	The Hartford	thehartford.com	Hartford, CT
+19	Auto Club Insurance Association	aaa.com	Dearborn, MI
+20	Amica	amica.com	Lincoln, RI
+21	The Hanover Insurance Group	hanover.com	Worcester, MA
+22	COUNTRY Financial	countryfinancial.com	Bloomington, IL
+23	NJM Insurance	njm.com	West Trenton, NJ
+24	Southern Farm Bureau Casualty	sfbcic.com	Ridgeland, MS
+25	Sentry	sentry.com	Stevens Point, WI
+26	Shelter Insurance	shelterinsurance.com	Columbia, MO
+27	Alfa Mutual Group	alfainsurance.com	Montgomery, AL
+28	Ameriprise Financial	ameriprise.com	Minneapolis, MN
+29	Chubb	chubb.com	Whitehouse Station, NJ
+30	Texas Farm Bureau Insurance	txfb-ins.com	Waco, TX
+31	Tennessee Farmers Insurance Cos.	www.fbitn.com	Columbia, TN
+32	Plymouth Rock of New Jersey	plymouthrock.com	Red Bank, NJ
+33	The Cincinnati Insurance Cos.	cinfin.com	Fairfield, OH
+34	North Carolina Farm Bureau Insurance	ncfbins.com	Raleigh, NC
+35	Kentucky Farm Bureau	kyfb.com	Louisville, KY
+36	State Auto	stateauto.com	Columbus, OH
+37	Consumers County Mutual Insurance Co.	Now an underwriter for Texas customers of American Modern Insurance	Dallas, TX
+38	Grange Insurance	grangeinsurance.com	Columbus, OH
+39	American National	americannational.com	Galveston, TX
+40	Loya Insurance	fredloya.com	El Paso, TX
+41	Farm Bureau Financial Services	fbfs.com	West Des Moines, IA
+42	Safety Insurance	safetyinsurance.com	Boston, MA
+43	Wawanesa General Insurance Co.	wawanesa.com	San Diego, CA
+44	Horace Mann	horacemann.com	Springfield, IL
+45	Markel	markelinsurance.com	Glen Allen, VA
+46	Michigan Farm Bureau	farmbureauinsurance-mi.com	Lansing, MI
+47	Plymouth Rock Co.	plymouthrock.com	Boston, MA
+48	Home State Insurance Group	equityins.net	Waco, TX
+49	American Access Casualty Co.	aains.com	Downers Grove, IL
